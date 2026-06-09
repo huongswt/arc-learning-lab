@@ -5,3 +5,6 @@ My public journey exploring the Arc ecosystem.
 - Understand stablecoin-native infrastructure
 - Build practical applications
 - Explore AI agent integrations
+
+
+init: create arc learning repository
