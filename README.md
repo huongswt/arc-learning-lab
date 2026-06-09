@@ -7,4 +7,3 @@ My public journey exploring the Arc ecosystem.
 - Explore AI agent integrations
 
 
-init: create arc learning repository
